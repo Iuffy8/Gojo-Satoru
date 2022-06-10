@@ -23,13 +23,13 @@ global.owner = ['967776711253']
 global.premium = ['967776711253']
 global.ownernomer = '967776711253'
 global.ownername = '🐦MŒÑĶÝ Ď ŁÜFFÝ🌕⛓️، 𝑰𝑵𝑶𝑹𝑰'
-global.botname = 'BŒÄ HĄÑČOÇĶ 🧸💗🖇️'
+global.botname = '🐦MŒÑĶÝ Ď ŁÜFFÝ🌕⛓️، 𝑰𝑵𝑶𝑹𝑰🖇️'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/HjTfKu0yuw2KsgNVWo4r1B'
 global.myweb = 'https://instagram.com/lofi.725?igshid=YmMyMTA2M2Y='
-global.packname = 'BŒÄ HĄÑČOÇĶ 🧸💗🖇️'
+global.packname = '🐦MŒÑĶÝ Ď ŁÜFFÝ🌕⛓️، 𝑰𝑵𝑶𝑹𝑰'
 global.author = ''
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
